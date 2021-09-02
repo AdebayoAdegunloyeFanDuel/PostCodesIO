@@ -1,0 +1,16 @@
+Main.java
+ Main
+objectMapping/PostCodesDeseriliser.java
+ objectMapping.PostCodesDeseriliser
+HttpManagement/HttpManager.java
+ HttpManagement.HttpManager
+objectMapping/PostcodeCodesDto.java
+ objectMapping.PostcodeCodesDto
+objectMapping/PostCodesDTO.java
+ objectMapping.PostCodesDTO
+objectMapping/PostCodesTests.java
+ objectMapping.PostCodesTests
+HttpManagement/PostCodesHttpManager.java
+ HttpManagement.PostCodesHttpManager
+configManagement/ConfigManager.java
+ configManagement.ConfigManager
